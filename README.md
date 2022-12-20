@@ -4,4 +4,4 @@
 - Focusing on BlockChain
 - Move & Solana & Substrate developer
 - Senior full-stack engineer, Excellent web developer, Dapp, Public Chain, Smart contract etc.
-- Vue3/React(Nuxt/Next) + TS + Nest + CSS3, Simple Devops(Linux) + Docker + K3S, Rust + MoveSubstrate/Solana
+- Vue3/React(Nuxt/Next) + TS + Nest + CSS3, Simple Devops(Linux) + Docker + K3S, Rust + Move/Substrate/Solana
