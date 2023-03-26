@@ -1,4 +1,6 @@
-Hi, I'm Clayon :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=AESETH)
+## Hi, I'm Clayon :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=AESETH)
+
+<!-- Introduction -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AESETH&count_private=true&theme=highcontrast&show_icons=true" />
 
