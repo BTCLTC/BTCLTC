@@ -2,15 +2,13 @@
 
 ## Hi, I'm Clayon :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=AESETH)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aeseth&theme=algolia&row=1&column=4&margin-w=5" />
-</p>
-
-## Statistics
-
 <div align="center">
   <p>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeseth&layout=compact&theme=chartreuse-dark&count_private=true" />
+  </p>
+  
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=aeseth&theme=algolia&row=1&column=4&margin-w=5" />
   </p>
   
   <p>
