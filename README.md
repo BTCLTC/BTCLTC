@@ -22,4 +22,4 @@
 - Front End: Vue3/React(Nuxt/Next) + TS + CSS3(Tailwind)
 - Back End: Rust + Nest(prisma ORM)
 - DevOps: Simple Devops(Linux) + Docker + K3S
-- Contract: Solana + Move(SUI) + Substrate
+- Contract: Solana + Move(Sui) + Substrate
