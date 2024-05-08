@@ -17,6 +17,9 @@
 </div>
 
 - Focusing on BlockChain
-- Move & Solana & Substrate developer
+- Front End & NodeJs & Move & Solana & Substrate developer
 - Senior full-stack engineer, Excellent web developer, Dapp, Public Chain, Smart contract etc.
-- Vue3/React(Nuxt/Next) + TS + Nest(prisma ORM) + CSS3(Tailwind), Simple Devops(Linux) + Docker + K3S, Rust + Move/Substrate/Solana
+- Front End: Vue3/React(Nuxt/Next) + TS + CSS3(Tailwind)
+- Back End: Rust + Nest(prisma ORM)
+- DevOps: Simple Devops(Linux) + Docker + K3S
+- Contract: Solana + Move(SUI) + Substrate
