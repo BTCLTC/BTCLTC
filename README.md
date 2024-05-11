@@ -16,7 +16,7 @@
   </p>
 </div>
 
-- Former developer of Huobi Heco public chain
+- Former developer of Huobi Heco chain
 - Front End & NodeJs & Move & Solana & Substrate developer
 - Senior full-stack engineer, Excellent web developer, Dapp, Public Chain, Smart contract etc.
 - Front End: Vue3/React(Nuxt/Next) + TS + CSS3(Tailwind)
