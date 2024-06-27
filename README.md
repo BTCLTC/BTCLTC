@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/-React-rgb(19, 159, 205)?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Vue-rgb(66, 184, 131)?style=flat-square&logo=vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Tailwindcss-rgb(56, 189, 248)?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TailwindCss-rgb(56, 189, 248)?style=flat-square&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TypeScript-rgb(49, 120, 198)?style=flat-square&logo=typescript&logoColor=white"/>
   </p>
 
